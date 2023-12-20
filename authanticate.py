@@ -4,11 +4,11 @@ user={
 }
 username=input('username please.... ')
 password=input('password please.... ')
-if userame !=user'[username']:
-   print('username is invaild')
+if username !=user['username']: 
+   print('username is vaild')
 else:
     print('username is invaild')
 if  password!=user['password']:
-    print('paaword is incorrect')
+    print('paaword is vaild')
 else:
-    print('password is vaild')              
+    print('password is invaild')              
