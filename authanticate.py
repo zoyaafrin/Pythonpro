@@ -4,7 +4,7 @@ user={
 }
 username=input('username please.... ')
 password=input('password please.... ')
-if username !=user['username']: 
+if username!=user['username']: 
    print('username is vaild')
 else:
     print('username is invaild')
